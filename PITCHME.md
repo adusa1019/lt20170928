@@ -15,11 +15,12 @@
 ---
 ## 日替わりセール
 - 仕掛学―人を動かすアイデアのつくり方
-+++?image=https://images-fe.ssl-images-amazon.com/images/I/41xBApEBlyL.jpg
++++?image=https://images-fe.ssl-images-amazon.com/images/I/41xBApEBlyL.jpg&size=auto 90%
 
+---
 - [新形式問題対応]TOEIC L&R テスト 究極のゼミ Part 7 TOEIC L&R テスト 究極のゼミシリーズ
 
-+++?image=https://images-fe.ssl-images-amazon.com/images/I/51-Ai6YXYTL._SY346_.jpg
++++?image=https://images-fe.ssl-images-amazon.com/images/I/51-Ai6YXYTL._SY346_.jpg&size=auto 90%
 
 +++
 - \1098
