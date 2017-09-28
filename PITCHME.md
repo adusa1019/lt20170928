@@ -42,13 +42,6 @@
 
 +++?image=https://images-fe.ssl-images-amazon.com/images/I/51ILHA9nebL._SY346_.jpg&size=auto 90%
 
-
-+++?image=images/1.jpg&size=auto 90%
-
-+++?image=images/2.jpg&size=auto 90%
-
-+++?image=images/3.jpg&size=auto 90%
-
 +++?image=https://images-fe.ssl-images-amazon.com/images/I/51z7w7PPh8L._SY346_.jpg&size=auto 90%
 
 +++?image=https://images-fe.ssl-images-amazon.com/images/I/518Nf4EKwHL.jpg&size=auto 90%
@@ -56,6 +49,13 @@
 +++?image=https://images-fe.ssl-images-amazon.com/images/I/41aud5hI9EL._SY346_.jpg&size=auto 90%
 
 +++?image=https://images-fe.ssl-images-amazon.com/images/I/41hM7KeUfML.jpg&size=auto 90%
+
++++?image=images/1.jpg&size=auto 90%
+
++++?image=images/2.jpg&size=auto 90%
+
++++?image=images/3.jpg&size=auto 90%
+
 
 +++?image=https://images-fe.ssl-images-amazon.com/images/I/51%2BxXptpCCL.jpg&size=auto 90%
 
