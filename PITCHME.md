@@ -63,3 +63,18 @@
 
 +++
 - 27301 円
+
+
+---
+- というわけで 9月は書籍代に
+
++++
+- 30559 円 使いました
+
+
+---
+- 最近読んでいる(途中)のものもいくつか紹介
+
++++?image=https://images-na.ssl-images-amazon.com/images/I/510C3noLE1L._SX349_BO1,204,203,200_.jpg&size=auto 90%
+
++++?image=https://images-na.ssl-images-amazon.com/images/I/51kODDr1QfL._SX347_BO1,204,203,200_.jpg&size=auto 90%
